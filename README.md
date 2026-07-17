@@ -85,30 +85,39 @@ $ tree ~/skills -L 1 --dirsfirst
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE3D2C?style=flat-square)
 ![MOPS](https://img.shields.io/badge/MOPS-Selenium%2FAppium%2FPlaywright-111111?style=flat-square)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-remote%20grid-F45E3D?style=flat-square&logo=browserstack&logoColor=white)
+![Visual Regression](https://img.shields.io/badge/Visual%20regression-OpenCV%20%2F%20MOPS-5C6BC0?style=flat-square)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-media%20QA-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure%20TestOps-E94D3A?style=flat-square)
 ![QASE](https://img.shields.io/badge/QASE-4B6BFB?style=flat-square)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-00CA8C?style=flat-square)
+![ReportPortal](https://img.shields.io/badge/ReportPortal-C73E1D?style=flat-square)
 
 ### `~/skills/ai/` — agents, RAG, eval
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-multi--agent-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-strategies-7C3AED?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-Chroma%20%2F%20embeddings-6366F1?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-Postgres%20embeddings-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured.io-doc%20ingest-0F172A?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111111?style=flat-square)
 ![LLM-as-judge](https://img.shields.io/badge/LLM--as--a--judge-eval-F59E0B?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-local%20%26%20cloud-EC4899?style=flat-square)
+![Multi-provider](https://img.shields.io/badge/OpenAI%20%2F%20Bedrock%20%2F%20multi--provider-111827?style=flat-square)
 
 ### `~/skills/backend/`
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic%20v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%202-async-D71F00?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-asyncpg-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=flat-square)
+![sqlc](https://img.shields.io/badge/sqlc-typed%20SQL-111111?style=flat-square)
+![Alembic](https://img.shields.io/badge/Alembic-migrations-8B5CF6?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-Streams-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO%20%2F%20S3-C72E49?style=flat-square&logo=minio&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-Authlib-3C3C3C?style=flat-square)
+![aiohttp](https://img.shields.io/badge/aiohttp-workers-2C5BB4?style=flat-square)
+![structlog](https://img.shields.io/badge/structlog-logging-111111?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-observability-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-voice-333333?style=flat-square)
 
 ### `~/skills/protocols/`
@@ -117,7 +126,8 @@ $ tree ~/skills -L 1 --dirsfirst
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![SMTP/IMAP](https://img.shields.io/badge/SMTP%2FIMAP-agents-6B7280?style=flat-square)
+![IMAP](https://img.shields.io/badge/IMAP-aioimaplib-6B7280?style=flat-square)
+![SMTP](https://img.shields.io/badge/SMTP-agents-6B7280?style=flat-square)
 
 ### `~/skills/infra/`
 
